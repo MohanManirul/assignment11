@@ -1,0 +1,30 @@
+/* heading text of post details */
+h1.text{
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+div.wrapperDetails{
+    padding: 20px;
+}
+div.flex{
+    display: flex;
+    justify-content: space-between;
+}
+div.wrapperDetails div.flex span.id{
+    background-color: yellow;
+    padding: 10px;
+    margin-bottom: 5px;
+    
+}
+p.title{
+    font-weight: bold;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+p.contentAll{
+    padding: 5px;
+}
+p.contentAll .content{
+    background-color: yellow;
+}
